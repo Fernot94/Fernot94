@@ -1,6 +1,6 @@
 # Fernando (Fernot94) 💻
 
-Hey there! My name is Fernando, but you can call me Fernot94. I'm a full stack developer with a love for building web apps and tackling problems through code. 💪
+Hey there! My name is Fernando. I'm a full stack developer with a love for building web apps and tackling problems through code. 💪
 
 I've worked with a bunch of different technologies, including:
 - JavaScript 💻
